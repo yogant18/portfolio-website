@@ -16,142 +16,88 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
 endobj
 6 0 obj
-<< /Length 7979 >>
+<< /Length 9096 >>
 stream
-BT
-/F2 21 Tf
-0.11 0.38 0.67 rg
-235 804 Td
-(Yogant Patil) Tj
-ET
-BT
-/F1 8.5 Tf
-0 0 0 rg
-70 788 Td
-(9404343788   |   yogant.patil2001@gmail.com   |   ) Tj
-/F2 8.5 Tf 0.11 0.38 0.67 rg (GitHub) Tj
-/F1 8.5 Tf 0 0 0 rg (   |   ) Tj
-/F2 8.5 Tf 0.11 0.38 0.67 rg (LinkedIn) Tj
-/F1 8.5 Tf 0 0 0 rg (   |   Pune) Tj
-ET
+BT /F2 21 Tf 0.11 0.38 0.67 rg 235 804 Td (Yogant Patil) Tj ET
+BT /F1 8.5 Tf 0 0 0 rg 70 788 Td (9404343788   |   yogant.patil2001@gmail.com   |   ) Tj /F2 8.5 Tf 0.11 0.38 0.67 rg (GitHub) Tj /F1 8.5 Tf 0 0 0 rg (   |   ) Tj /F2 8.5 Tf 0.11 0.38 0.67 rg (LinkedIn) Tj /F1 8.5 Tf 0 0 0 rg (   |   Pune) Tj ET
 BT /F2 10.5 Tf 0.11 0.38 0.67 rg 50 768 Td (EDUCATIONS) Tj ET
 q 0.5 0.5 0.5 rg 50 764 512 0.75 re f Q
-BT /F2 9.2 Tf 0 0 0 rg 50 751 Td (COEP Technological University  |  Pune) Tj
-/F1 8.2 Tf 335 0 Td (Aug 2024 - July 2026) Tj ET
-BT /F1 8.2 Tf 0 0 0 rg 50 740 Td (Master of Technology in Data Science) Tj
-375 0 Td (CGPA : 8.16 / 10) Tj ET
-BT /F2 9.2 Tf 0 0 0 rg 50 724 Td (Fr. Conceicao Rodrigues Institute of Technology  |  Navi Mumbai) Tj
-/F1 8.2 Tf 265 0 Td (Aug 2019 - May 2023) Tj ET
-BT /F1 8.2 Tf 0 0 0 rg 50 713 Td (Bachelor Of Technology in Computer Engineering) Tj
-375 0 Td (CGPA : 8.84 / 10) Tj ET
+BT /F2 9.2 Tf 0 0 0 rg 50 751 Td (COEP Technological University  |  Pune) Tj /F1 8.2 Tf 335 0 Td (Aug 2024 - July 2026) Tj ET
+BT /F1 8.2 Tf 0 0 0 rg 50 740 Td (Master of Technology in Data Science) Tj 375 0 Td (CGPA : 8.16 / 10) Tj ET
+BT /F2 9.2 Tf 0 0 0 rg 50 724 Td (Fr. Conceicao Rodrigues Institute of Technology  |  Navi Mumbai) Tj /F1 8.2 Tf 265 0 Td (Aug 2019 - May 2023) Tj ET
+BT /F1 8.2 Tf 0 0 0 rg 50 713 Td (Bachelor Of Technology in Computer Engineering) Tj 375 0 Td (CGPA : 8.84 / 10) Tj ET
 BT /F2 10.5 Tf 0.11 0.38 0.67 rg 50 694 Td (WORK EXPERIENCE) Tj ET
 q 0.5 0.5 0.5 rg 50 690 512 0.75 re f Q
-BT /F2 9.2 Tf 0 0 0 rg 50 677 Td (Generative AI Intern  |  Internship) Tj
-/F1 8.2 Tf 340 0 Td (Sep 2025 - Oct 2025) Tj ET
-BT /F1 8.2 Tf 0.15 0.15 0.15 rg 50 666 Td (Vodafone Idea Foundation | Edunet Foundation) Tj
-395 0 Td (Remote) Tj ET
-BT /F1 7.6 Tf 0 0 0 rg
-55 655 Td
-(\225 Developed LLM-powered conversational data analysis solutions using Prompt Engineering and NLP to process natural language queries.) Tj
-0 -9.5 Td
-(\225 Built AI workflows by integrating LLM APIs and optimizing prompts to generate accurate, context-aware responses.) Tj
-0 -9.5 Td
-(\225 Implemented Retrieval-Augmented Generation (RAG) concepts using embeddings, document chunking, semantic search, and vector databases.) Tj
-0 -9.5 Td
-(\225 Worked with Python, LangChain, and API integration to develop and evaluate Generative AI applications.) Tj
-0 -9.5 Td
-(\225 Improved response quality through prompt optimization, response evaluation, and iterative testing for real-world conversational AI use cases.) Tj
-ET
-BT /F2 7.8 Tf 0 0 0 rg 55 607 Td (Technologies / Skills Used : ) Tj
-/F1 7.6 Tf 100 0 Td (Python, LLMs, Prompt Engineering, LangChain, RAG, LLM APIs) Tj ET
-BT /F2 9.2 Tf 0 0 0 rg 50 592 Td (Data Analyst Intern  |  Internship) Tj
-/F1 8.2 Tf 340 0 Td (Sep 2025 - Dec 2025) Tj ET
-BT /F1 8.2 Tf 0.15 0.15 0.15 rg 50 581 Td (Infyntrek Systemes) Tj
-360 0 Td (Remote(Bengaluru)) Tj ET
-BT /F1 7.6 Tf 0 0 0 rg
-55 570 Td
-(\225 Developed SQL-based ETL pipelines and automated data preprocessing workflows for large-scale financial transaction datasets using SQL, Python, Pandas, NumPy.) Tj
-0 -9.5 Td
-(\225 Built and evaluated Machine Learning models using Logistic Regression and Random Forest for credit risk prediction, leveraging feature engineering.) Tj
-0 -9.5 Td
-(\225 Implemented RFM Analysis, K-Means Clustering, and Customer Lifetime Value (CLV) modeling to perform customer segmentation and support business strategies.) Tj
-0 -9.5 Td
-(\225 Conducted Exploratory Data Analysis (EDA) and created interactive Power BI/Tableau dashboards to visualize financial KPIs and operational insights.) Tj
-0 -9.5 Td
-(\225 Evaluated model performance using Precision, Recall, F1-Score, and ROC-AUC on imbalanced datasets, improving predictive analytics reliability.) Tj
-ET
-BT /F2 7.8 Tf 0 0 0 rg 55 522 Td (Technologies / Skills Used : ) Tj
-/F1 7.6 Tf 100 0 Td (Python, SQL, Pandas, Scikit-learn, Machine Learning) Tj ET
-BT /F2 10.5 Tf 0.11 0.38 0.67 rg 50 507 Td (PUBLICATIONS & RESEARCH) Tj ET
-q 0.5 0.5 0.5 rg 50 503 512 0.75 re f Q
-BT /F2 8.8 Tf 0 0 0 rg 50 491 Td (Explainable Graph-Based Learning Framework for Drug-Drug Interaction Prediction) Tj ET
-BT /F1 7.8 Tf 0.15 0.15 0.15 rg 50 481 Td (Published in ) Tj
-/F2 7.8 Tf 0.11 0.38 0.67 rg (IEEE Xplore) Tj
-/F1 7.8 Tf 0.15 0.15 0.15 rg (  |  ICICI 2026) Tj ET
-BT /F1 7.6 Tf 0 0 0 rg 50 471 Td (Researched and developed an AI approach using Graph Attention Networks that predicts when two medicines are unsafe to take together. The study also investigates) Tj
-0 -8.5 Td (which enzymes in the body cause the interaction, achieving 98.24% accuracy on 191K+ drug pairs.) Tj ET
-BT /F2 10.5 Tf 0.11 0.38 0.67 rg 50 448 Td (PROJECTS) Tj ET
-q 0.5 0.5 0.5 rg 50 444 512 0.75 re f Q
-BT /F2 8.6 Tf 0 0 0 rg 50 433 Td (Explainable Drug-Drug Interaction Prediction (Research Project)  |  ) Tj
-/F2 8.6 Tf 0.11 0.38 0.67 rg (Kaggle) Tj
-/F1 8 Tf 0 0 0 rg 230 0 Td (Jun 2025 - May 2026) Tj ET
-BT /F1 7.6 Tf 0 0 0 rg
-55 423 Td
-(\225 Researched an AI system that predicts whether two drugs are dangerous to take together, using molecular structure and biological behaviour.) Tj
-0 -8.5 Td
-(\225 Investigated an explanation layer that tells doctors why two drugs interact, highlighting specific enzymes; proposed stricter evaluation protocol.) Tj
-0 -8.5 Td
-(\225 Evaluated on completely unseen drugs to simulate real-world conditions, achieving 98.24% accuracy on DrugBank dataset of 191K+ drug pairs.) Tj
-ET
-BT /F2 7.6 Tf 0 0 0 rg 55 397 Td (Technologies / Tools Used : ) Tj
-/F1 7.4 Tf 100 0 Td (Python, PyTorch Geometric, RDKit, ChemBERTa, SHAP, GNN) Tj ET
-BT /F2 8.6 Tf 0 0 0 rg 50 384 Td (AI Video Assistant  |  ) Tj
-/F2 8.6 Tf 0.11 0.38 0.67 rg (Github) Tj ET
-BT /F1 7.6 Tf 0 0 0 rg
-55 374 Td
-(\225 Converts speech into text (transcription) for English (Mistral AI) and Hindi/Hinglish (Sarvam AI), creating bulleted summaries.) Tj
-0 -8.5 Td
-(\225 Extracts action items, decisions, and open questions automatically; interactive RAG chat interface with ChromaDB and Streamlit UI.) Tj
-ET
-BT /F2 7.6 Tf 0 0 0 rg 55 357 Td (Technologies / Tools Used : ) Tj
-/F1 7.4 Tf 100 0 Td (Python, Whisper, Sarvam AI, LangChain, Mistral AI, ChromaDB, Streamlit) Tj ET
-BT /F2 8.6 Tf 0 0 0 rg 50 344 Td (CareerReach AI  |  ) Tj
-/F2 8.6 Tf 0.11 0.38 0.67 rg (Github) Tj ET
-BT /F1 7.6 Tf 0 0 0 rg
-55 334 Td
-(\225 LLM-powered platform that extracts job postings from career pages and generates personalized cold emails using RAG and Groq.) Tj
-0 -8.5 Td
-(\225 Implemented vector search to match job requirements with portfolio projects, reducing manual outreach effort by 80%.) Tj
-ET
-BT /F2 7.6 Tf 0 0 0 rg 55 317 Td (Technologies / Tools Used : ) Tj
-/F1 7.4 Tf 100 0 Td (Groq, LangChain, LLM Automation, Vector DB) Tj ET
-BT /F2 8.6 Tf 0 0 0 rg 50 304 Td (Vendor Invoice Intelligence System  |  ) Tj
-/F2 8.6 Tf 0.11 0.38 0.67 rg (Github) Tj ET
-BT /F1 7.6 Tf 0 0 0 rg
-55 294 Td
-(\225 End-to-end ML-based invoice analytics predicting freight costs and detecting high-risk invoices using Random Forest & Logistic Regression.) Tj
-0 -8.5 Td
-(\225 Designed interactive Streamlit dashboard for real-time invoice analysis, reducing manual review effort by 70%.) Tj
-ET
-BT /F2 7.6 Tf 0 0 0 rg 55 277 Td (Technologies / Tools Used : ) Tj
-/F1 7.4 Tf 100 0 Td (Python, Scikit-learn, SQL, Streamlit) Tj ET
-BT /F2 10.5 Tf 0.11 0.38 0.67 rg 50 260 Td (SKILLS) Tj ET
-q 0.5 0.5 0.5 rg 50 256 512 0.75 re f Q
-BT /F2 8 Tf 0 0 0 rg 50 245 Td (Programming & Databases :) Tj
-/F1 7.6 Tf 115 0 Td (Python, SQL, PostgreSQL, MySQL, REST APIs) Tj ET
-BT /F2 8 Tf 0 0 0 rg 50 234 Td (Machine Learning & Cloud :) Tj
-/F1 7.6 Tf 115 0 Td (Pandas, NumPy, Scikit-learn, EDA, A/B Testing, AWS, AWS SageMaker, EC2, Docker) Tj ET
-BT /F2 8 Tf 0 0 0 rg 50 223 Td (Deep Learning & AI :) Tj
-/F1 7.6 Tf 115 0 Td (LLMs, RAG, LangChain, NLP, Graph Neural Networks (GNNs), Generative AI, TensorFlow, PyTorch) Tj ET
-BT /F2 8 Tf 0 0 0 rg 50 212 Td (Visualization & Analytics :) Tj
-/F1 7.6 Tf 115 0 Td (Power BI, Tableau, Matplotlib, Seaborn) Tj ET
-BT /F2 10.5 Tf 0.11 0.38 0.67 rg 50 196 Td (CERTIFICATIONS) Tj ET
-q 0.5 0.5 0.5 rg 50 192 512 0.75 re f Q
-BT /F2 8.6 Tf 0 0 0 rg 50 180 Td (Certified Data Science Professional) Tj
-/F1 7.8 Tf 340 0 Td (Oct 2025 - Oct 2027) Tj ET
-BT /F1 7.8 Tf 0.15 0.15 0.15 rg 50 170 Td (Oracle University) Tj ET
-BT /F2 7.8 Tf 0 0 0 rg 50 159 Td (Certification Url : ) Tj
-/F1 7.6 Tf 0.11 0.38 0.67 rg 72 0 Td (https://drive.google.com/file/d/1xrkhjKwtQscCcsR8b9HR4o6a3piJl2BG/view) Tj ET
+BT /F2 9.2 Tf 0 0 0 rg 50 677 Td (Generative AI Intern  |  Internship) Tj /F1 8.2 Tf 340 0 Td (Sep 2025 - Oct 2025) Tj ET
+BT /F1 8.2 Tf 0.15 0.15 0.15 rg 50 666 Td (Vodafone Idea Foundation | Edunet Foundation) Tj 395 0 Td (Remote) Tj ET
+q 0.25 0.25 0.25 rg 52 657.5 2.2 2.2 re f Q
+BT /F1 7.6 Tf 0 0 0 rg 60 655.0 Td (Developed LLM-powered conversational data analysis solutions using Prompt Engineering and NLP to process natural language queries.) Tj ET
+q 0.25 0.25 0.25 rg 52 648.0 2.2 2.2 re f Q
+BT /F1 7.6 Tf 0 0 0 rg 60 645.5 Td (Built AI workflows by integrating LLM APIs and optimizing prompts to generate accurate, context-aware responses.) Tj ET
+q 0.25 0.25 0.25 rg 52 638.5 2.2 2.2 re f Q
+BT /F1 7.6 Tf 0 0 0 rg 60 636.0 Td (Implemented Retrieval-Augmented Generation (RAG) concepts using embeddings, document chunking, semantic search, and vector databases.) Tj ET
+q 0.25 0.25 0.25 rg 52 629.0 2.2 2.2 re f Q
+BT /F1 7.6 Tf 0 0 0 rg 60 626.5 Td (Worked with Python, LangChain, and API integration to develop and evaluate Generative AI applications.) Tj ET
+q 0.25 0.25 0.25 rg 52 619.5 2.2 2.2 re f Q
+BT /F1 7.6 Tf 0 0 0 rg 60 617.0 Td (Improved response quality through prompt optimization, response evaluation, and iterative testing for real-world conversational AI use cases.) Tj ET
+BT /F2 7.8 Tf 0 0 0 rg 52 605 Td (Technologies / Skills Used : ) Tj /F1 7.6 Tf 100 0 Td (Python, LLMs, Prompt Engineering, LangChain, RAG, LLM APIs) Tj ET
+BT /F2 9.2 Tf 0 0 0 rg 50 590 Td (Data Analyst Intern  |  Internship) Tj /F1 8.2 Tf 340 0 Td (Sep 2025 - Dec 2025) Tj ET
+BT /F1 8.2 Tf 0.15 0.15 0.15 rg 50 579 Td (Infyntrek Systemes) Tj 360 0 Td (Remote(Bengaluru)) Tj ET
+q 0.25 0.25 0.25 rg 52 570.5 2.2 2.2 re f Q
+BT /F1 7.6 Tf 0 0 0 rg 60 568.0 Td (Developed SQL-based ETL pipelines and automated data preprocessing workflows for large-scale financial transaction datasets using SQL, Python, Pandas, NumPy.) Tj ET
+q 0.25 0.25 0.25 rg 52 561.0 2.2 2.2 re f Q
+BT /F1 7.6 Tf 0 0 0 rg 60 558.5 Td (Built and evaluated Machine Learning models using Logistic Regression and Random Forest for credit risk prediction, leveraging feature engineering.) Tj ET
+q 0.25 0.25 0.25 rg 52 551.5 2.2 2.2 re f Q
+BT /F1 7.6 Tf 0 0 0 rg 60 549.0 Td (Implemented RFM Analysis, K-Means Clustering, and Customer Lifetime Value (CLV) modeling to perform customer segmentation and support business strategies.) Tj ET
+q 0.25 0.25 0.25 rg 52 542.0 2.2 2.2 re f Q
+BT /F1 7.6 Tf 0 0 0 rg 60 539.5 Td (Conducted Exploratory Data Analysis (EDA) and created interactive Power BI/Tableau dashboards to visualize financial KPIs and operational insights.) Tj ET
+q 0.25 0.25 0.25 rg 52 532.5 2.2 2.2 re f Q
+BT /F1 7.6 Tf 0 0 0 rg 60 530.0 Td (Evaluated model performance using Precision, Recall, F1-Score, and ROC-AUC on imbalanced datasets, improving predictive analytics reliability.) Tj ET
+BT /F2 7.8 Tf 0 0 0 rg 52 518 Td (Technologies / Skills Used : ) Tj /F1 7.6 Tf 100 0 Td (Python, SQL, Pandas, Scikit-learn, Machine Learning) Tj ET
+BT /F2 10.5 Tf 0.11 0.38 0.67 rg 50 503 Td (PUBLICATIONS & RESEARCH) Tj ET
+q 0.5 0.5 0.5 rg 50 499 512 0.75 re f Q
+BT /F2 8.8 Tf 0 0 0 rg 50 487 Td (Explainable Graph-Based Learning Framework for Drug-Drug Interaction Prediction) Tj ET
+BT /F1 7.8 Tf 0.15 0.15 0.15 rg 50 477 Td (Published in ) Tj /F2 7.8 Tf 0.11 0.38 0.67 rg (IEEE Xplore) Tj /F1 7.8 Tf 0.15 0.15 0.15 rg (  |  ICICI 2026) Tj ET
+BT /F1 7.6 Tf 0 0 0 rg 50 467 Td (Researched and developed an AI approach using Graph Attention Networks that predicts when two medicines are unsafe to take together. The study also investigates) Tj 0 -8.5 Td (which enzymes in the body cause the interaction, achieving 98.24% accuracy on 191K+ drug pairs.) Tj ET
+BT /F2 10.5 Tf 0.11 0.38 0.67 rg 50 444 Td (PROJECTS) Tj ET
+q 0.5 0.5 0.5 rg 50 440 512 0.75 re f Q
+BT /F2 8.6 Tf 0 0 0 rg 50 429 Td (Explainable Drug-Drug Interaction Prediction (Research Project)  |  ) Tj /F2 8.6 Tf 0.11 0.38 0.67 rg (Kaggle) Tj /F1 8 Tf 0 0 0 rg 230 0 Td (Jun 2025 - May 2026) Tj ET
+q 0.25 0.25 0.25 rg 52 421.5 2.2 2.2 re f Q
+BT /F1 7.6 Tf 0 0 0 rg 60 419.0 Td (Researched an AI system that predicts whether two drugs are dangerous to take together, using molecular structure and biological behaviour.) Tj ET
+q 0.25 0.25 0.25 rg 52 412.5 2.2 2.2 re f Q
+BT /F1 7.6 Tf 0 0 0 rg 60 410.0 Td (Investigated an explanation layer that tells doctors why two drugs interact, highlighting specific enzymes; proposed stricter evaluation protocol.) Tj ET
+q 0.25 0.25 0.25 rg 52 403.5 2.2 2.2 re f Q
+BT /F1 7.6 Tf 0 0 0 rg 60 401.0 Td (Evaluated on completely unseen drugs to simulate real-world conditions, achieving 98.24% accuracy on DrugBank dataset of 191K+ drug pairs.) Tj ET
+BT /F2 7.6 Tf 0 0 0 rg 52 390 Td (Technologies / Tools Used : ) Tj /F1 7.4 Tf 100 0 Td (Python, PyTorch Geometric, RDKit, ChemBERTa, SHAP, GNN) Tj ET
+BT /F2 8.6 Tf 0 0 0 rg 50 377 Td (AI Video Assistant  |  ) Tj /F2 8.6 Tf 0.11 0.38 0.67 rg (Github) Tj ET
+q 0.25 0.25 0.25 rg 52 369.5 2.2 2.2 re f Q
+BT /F1 7.6 Tf 0 0 0 rg 60 367.0 Td (Converts speech into text (transcription) for English (Mistral AI) and Hindi/Hinglish (Sarvam AI), creating bulleted summaries.) Tj ET
+q 0.25 0.25 0.25 rg 52 360.5 2.2 2.2 re f Q
+BT /F1 7.6 Tf 0 0 0 rg 60 358.0 Td (Extracts action items, decisions, and open questions automatically; interactive RAG chat interface with ChromaDB and Streamlit UI.) Tj ET
+BT /F2 7.6 Tf 0 0 0 rg 52 347 Td (Technologies / Tools Used : ) Tj /F1 7.4 Tf 100 0 Td (Python, Whisper, Sarvam AI, LangChain, Mistral AI, ChromaDB, Streamlit) Tj ET
+BT /F2 8.6 Tf 0 0 0 rg 50 334 Td (CareerReach AI  |  ) Tj /F2 8.6 Tf 0.11 0.38 0.67 rg (Github) Tj ET
+q 0.25 0.25 0.25 rg 52 326.5 2.2 2.2 re f Q
+BT /F1 7.6 Tf 0 0 0 rg 60 324.0 Td (LLM-powered platform that extracts job postings from career pages and generates personalized cold emails using RAG and Groq.) Tj ET
+q 0.25 0.25 0.25 rg 52 317.5 2.2 2.2 re f Q
+BT /F1 7.6 Tf 0 0 0 rg 60 315.0 Td (Implemented vector search to match job requirements with portfolio projects, reducing manual outreach effort by 80%.) Tj ET
+BT /F2 7.6 Tf 0 0 0 rg 52 304 Td (Technologies / Tools Used : ) Tj /F1 7.4 Tf 100 0 Td (Groq, LangChain, LLM Automation, Vector DB) Tj ET
+BT /F2 8.6 Tf 0 0 0 rg 50 291 Td (Vendor Invoice Intelligence System  |  ) Tj /F2 8.6 Tf 0.11 0.38 0.67 rg (Github) Tj ET
+q 0.25 0.25 0.25 rg 52 283.5 2.2 2.2 re f Q
+BT /F1 7.6 Tf 0 0 0 rg 60 281.0 Td (End-to-end ML-based invoice analytics predicting freight costs and detecting high-risk invoices using Random Forest & Logistic Regression.) Tj ET
+q 0.25 0.25 0.25 rg 52 274.5 2.2 2.2 re f Q
+BT /F1 7.6 Tf 0 0 0 rg 60 272.0 Td (Designed interactive Streamlit dashboard for real-time invoice analysis, reducing manual review effort by 70%.) Tj ET
+BT /F2 7.6 Tf 0 0 0 rg 52 261 Td (Technologies / Tools Used : ) Tj /F1 7.4 Tf 100 0 Td (Python, Scikit-learn, SQL, Streamlit) Tj ET
+BT /F2 10.5 Tf 0.11 0.38 0.67 rg 50 246 Td (SKILLS) Tj ET
+q 0.5 0.5 0.5 rg 50 242 512 0.75 re f Q
+BT /F2 8 Tf 0 0 0 rg 50 231 Td (Programming & Databases :) Tj /F1 7.6 Tf 115 0 Td (Python, SQL, PostgreSQL, MySQL, REST APIs) Tj ET
+BT /F2 8 Tf 0 0 0 rg 50 220 Td (Machine Learning & Cloud :) Tj /F1 7.6 Tf 115 0 Td (Pandas, NumPy, Scikit-learn, EDA, A/B Testing, AWS, AWS SageMaker, EC2, Docker) Tj ET
+BT /F2 8 Tf 0 0 0 rg 50 209 Td (Deep Learning & AI :) Tj /F1 7.6 Tf 115 0 Td (LLMs, RAG, LangChain, NLP, Graph Neural Networks (GNNs), Generative AI, TensorFlow, PyTorch) Tj ET
+BT /F2 8 Tf 0 0 0 rg 50 198 Td (Visualization & Analytics :) Tj /F1 7.6 Tf 115 0 Td (Power BI, Tableau, Matplotlib, Seaborn) Tj ET
+BT /F2 10.5 Tf 0.11 0.38 0.67 rg 50 182 Td (CERTIFICATIONS) Tj ET
+q 0.5 0.5 0.5 rg 50 178 512 0.75 re f Q
+BT /F2 8.6 Tf 0 0 0 rg 50 166 Td (Certified Data Science Professional) Tj /F1 7.8 Tf 340 0 Td (Oct 2025 - Oct 2027) Tj ET
+BT /F1 7.8 Tf 0.15 0.15 0.15 rg 50 156 Td (Oracle University) Tj ET
+BT /F2 7.8 Tf 0 0 0 rg 50 145 Td (Certification Url : ) Tj /F1 7.6 Tf 0.11 0.38 0.67 rg 72 0 Td (https://drive.google.com/file/d/1xrkhjKwtQscCcsR8b9HR4o6a3piJl2BG/view) Tj ET
 endstream
 endobj
 7 0 obj
@@ -167,22 +113,22 @@ endobj
 << /Type /Annot /Subtype /Link /Rect [330 785 375 798] /Border [0 0 0] /A << /S /URI /URI (https://www.linkedin.com/in/yogant-patil/) >> >>
 endobj
 11 0 obj
-<< /Type /Annot /Subtype /Link /Rect [95 478 150 490] /Border [0 0 0] /A << /S /URI /URI (https://ieeexplore.ieee.org/document/11581200) >> >>
+<< /Type /Annot /Subtype /Link /Rect [95 474 150 486] /Border [0 0 0] /A << /S /URI /URI (https://ieeexplore.ieee.org/document/11581200) >> >>
 endobj
 12 0 obj
-<< /Type /Annot /Subtype /Link /Rect [305 430 350 442] /Border [0 0 0] /A << /S /URI /URI (https://www.kaggle.com/code/yogantpatil/drug-drug-interaction-thesis-research) >> >>
+<< /Type /Annot /Subtype /Link /Rect [305 426 350 438] /Border [0 0 0] /A << /S /URI /URI (https://www.kaggle.com/code/yogantpatil/drug-drug-interaction-thesis-research) >> >>
 endobj
 13 0 obj
-<< /Type /Annot /Subtype /Link /Rect [135 380 175 393] /Border [0 0 0] /A << /S /URI /URI (https://github.com/yogant18/AI-Video-Assistant-) >> >>
+<< /Type /Annot /Subtype /Link /Rect [135 373 175 386] /Border [0 0 0] /A << /S /URI /URI (https://github.com/yogant18/AI-Video-Assistant-) >> >>
 endobj
 14 0 obj
-<< /Type /Annot /Subtype /Link /Rect [125 340 165 353] /Border [0 0 0] /A << /S /URI /URI (https://github.com/yogant18/CareerReach-AI-) >> >>
+<< /Type /Annot /Subtype /Link /Rect [125 330 165 343] /Border [0 0 0] /A << /S /URI /URI (https://github.com/yogant18/CareerReach-AI-) >> >>
 endobj
 15 0 obj
-<< /Type /Annot /Subtype /Link /Rect [210 300 250 313] /Border [0 0 0] /A << /S /URI /URI (https://github.com/yogant18/Vendor-Invoice-Intelligence-System) >> >>
+<< /Type /Annot /Subtype /Link /Rect [210 287 250 300] /Border [0 0 0] /A << /S /URI /URI (https://github.com/yogant18/Vendor-Invoice-Intelligence-System) >> >>
 endobj
 16 0 obj
-<< /Type /Annot /Subtype /Link /Rect [120 156 460 168] /Border [0 0 0] /A << /S /URI /URI (https://drive.google.com/file/d/1xrkhjKwtQscCcsR8b9HR4o6a3piJl2BG/view) >> >>
+<< /Type /Annot /Subtype /Link /Rect [120 142 460 154] /Border [0 0 0] /A << /S /URI /URI (https://drive.google.com/file/d/1xrkhjKwtQscCcsR8b9HR4o6a3piJl2BG/view) >> >>
 endobj
 xref
 0 17
@@ -193,18 +139,18 @@ xref
 0000000334 00000 n 
 0000000404 00000 n 
 0000000479 00000 n 
-0000008510 00000 n 
-0000008637 00000 n 
-0000008784 00000 n 
-0000008925 00000 n 
-0000009081 00000 n 
-0000009240 00000 n 
-0000009432 00000 n 
-0000009594 00000 n 
-0000009752 00000 n 
-0000009929 00000 n 
+0000009627 00000 n 
+0000009754 00000 n 
+0000009901 00000 n 
+0000010042 00000 n 
+0000010198 00000 n 
+0000010357 00000 n 
+0000010549 00000 n 
+0000010711 00000 n 
+0000010869 00000 n 
+0000011046 00000 n 
 trailer
 << /Size 17 /Root 1 0 R >>
 startxref
-10114
+11231
 %%EOF
