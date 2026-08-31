@@ -11,11 +11,16 @@ export default function Button({
   ...props
 }) {
   const classNames = `${styles.button} ${styles[variant]} ${className}`;
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+  const resolvedHref =
+    href && href.startsWith("/") && !href.startsWith("//") && basePath
+      ? `${basePath}${href}`
+      : href;
 
   if (href) {
     return (
       <a
-        href={href}
+        href={resolvedHref}
         className={classNames}
         download={download}
         target={href.startsWith("http") ? "_blank" : undefined}
