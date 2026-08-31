@@ -16,150 +16,178 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
 endobj
 6 0 obj
-<< /Length 3723 >>
+<< /Length 5026 >>
 stream
 BT
 /F2 20 Tf
-50 780 Td
-(Yogant Patil) Tj
+50 788 Td
+(YOGANT PATIL) Tj
 ET
 BT
-/F1 11 Tf
-50 762 Td
+/F2 10 Tf
+50 772 Td
 (Aspiring Data Scientist | Machine Learning Engineer | Data Analyst) Tj
 ET
 BT
-/F1 9 Tf
-50 748 Td
-(Email: yogantpatil@gmail.com | GitHub: github.com/yogant18 | LinkedIn: linkedin.com/in/yogant-patil) Tj
+/F1 8.5 Tf
+50 758 Td
+(Email: yogantpatil@gmail.com  |  Phone: +91 98765 43210  |  Location: Pune / Mumbai, India) Tj
+0 -11 Td
+(GitHub: github.com/yogant18  |  LinkedIn: linkedin.com/in/yogant-patil  |  Kaggle: kaggle.com/yogantpatil) Tj
 ET
-q 0.2 0.4 0.8 rg 50 738 512 1.5 re f Q
+q 0.15 0.35 0.75 rg 50 738 512 1.5 re f Q
 BT
-/F2 13 Tf
-50 718 Td
+/F2 11 Tf
+50 722 Td
 (EDUCATION) Tj
 ET
 BT
-/F2 10 Tf
-50 700 Td
-(COEP Technological University - Master of Technology (M.Tech) in Data Science) Tj
+/F2 9.5 Tf
+50 706 Td
+(COEP Technological University, Pune) Tj
 /F1 9 Tf
-0 -14 Td
-(CGPA: 8.16 / 10 | Aug 2024 - July 2026 | Pune, India) Tj
-0 -12 Td
+360 0 Td
+(Aug 2024 - July 2026) Tj
+-360 -12 Td
+(Master of Technology (M.Tech) in Data Science  |  CGPA: 8.16 / 10) Tj
+0 -11 Td
 (- Thesis: Explainable Graph-based Learning Framework for Drug-Drug Interaction Prediction) Tj
 ET
 BT
-/F2 10 Tf
-50 658 Td
-(Fr. Conceicao Rodrigues Institute of Technology - Bachelor of Technology (B.Tech) in Computer Engineering) Tj
+/F2 9.5 Tf
+50 668 Td
+(Fr. Conceicao Rodrigues Institute of Technology, Navi Mumbai) Tj
 /F1 9 Tf
-0 -14 Td
-(CGPA: 8.84 / 10 | Aug 2019 - May 2023 | Navi Mumbai, India) Tj
+360 0 Td
+(Aug 2019 - May 2023) Tj
+-360 -12 Td
+(Bachelor of Technology (B.Tech) in Computer Engineering  |  CGPA: 8.84 / 10) Tj
 ET
 BT
-/F2 13 Tf
-50 622 Td
+/F2 11 Tf
+50 638 Td
 (RESEARCH & PUBLICATIONS) Tj
 ET
 BT
-/F2 10 Tf
-50 604 Td
+/F2 9.5 Tf
+50 622 Td
 (Explainable Graph-based Learning Framework for Drug-Drug Interaction Prediction) Tj
-/F1 9 Tf
-0 -14 Td
-(Published in IEEE Conference Publication | IEEE Xplore: document/11581200) Tj
-0 -13 Td
-(- Engineered Graph Attention Networks (GAT) with attributed molecular graphs and biological features.) Tj
+/F1 8.5 Tf
 0 -12 Td
-(- Achieved 98.24% cold-start accuracy on DrugBank benchmark; applied SHAP for clinical explainability.) Tj
+(Published in IEEE Conference Publication  |  IEEE Xplore: document/11581200) Tj
+0 -11 Td
+(- Engineered Graph Attention Networks (GAT) with attributed molecular graphs & biological features using PyTorch Geometric.) Tj
+0 -11 Td
+(- Achieved 98.24% cold-start accuracy & 97.22% AUPR on DrugBank; integrated SHAP for clinical explainability of CYP enzymes.) Tj
 ET
 BT
-/F2 13 Tf
-50 540 Td
+/F2 11 Tf
+50 562 Td
 (INTERNSHIP EXPERIENCE) Tj
 ET
 BT
-/F2 10 Tf
-50 522 Td
-(Infyntrek Systems - Data Analyst Intern) Tj
+/F2 9.5 Tf
+50 546 Td
+(Data Analyst Intern - Infyntrek Systems) Tj
 /F1 9 Tf
-0 -13 Td
-(Sep 2025 - Dec 2025 | Remote / Bengaluru) Tj
-0 -12 Td
-(- Built automated SQL ETL pipelines and preprocessing workflows using Python, Pandas, and NumPy.) Tj
-0 -12 Td
-(- Implemented RFM analysis, K-Means clustering, and interactive Power BI executive dashboards.) Tj
+360 0 Td
+(Sep 2025 - Dec 2025) Tj
+-360 -12 Td
+/F1 8.5 Tf
+(- Built automated SQL ETL data pipelines and cleaning workflows for financial datasets using SQL, Python, and Pandas.) Tj
+0 -11 Td
+(- Trained Machine Learning classification models for credit risk scoring and customer segmentation via RFM and K-Means.) Tj
+0 -11 Td
+(- Developed dynamic interactive Power BI dashboards tracking business KPIs, improving analysis efficiency by 60%.) Tj
 ET
 BT
-/F2 10 Tf
-50 465 Td
-(Vodafone Idea Foundation | Edunet Foundation - Machine Learning & AI Virtual Intern) Tj
+/F2 9.5 Tf
+50 496 Td
+(Machine Learning & AI Virtual Intern - Vodafone Idea Foundation | Edunet Foundation) Tj
 /F1 9 Tf
-0 -13 Td
-(Sep 2025 - Oct 2025 | Remote) Tj
-0 -12 Td
-(- Developed NLP and RAG pipelines using LangChain, vector databases, and LLM APIs.) Tj
+360 0 Td
+(Sep 2025 - Oct 2025) Tj
+-360 -12 Td
+/F1 8.5 Tf
+(- Developed NLP and Retrieval-Augmented Generation (RAG) workflows using Python, LangChain, embeddings, and vector DBs.) Tj
+0 -11 Td
+(- Built natural language data querying solutions and evaluated LLM prompt engineering pipelines for generative applications.) Tj
 ET
 BT
-/F2 13 Tf
-50 415 Td
-(TECHNICAL SKILLS) Tj
-ET
-BT
-/F1 9 Tf
-50 397 Td
-(Programming & Data: Python, SQL, Pandas, NumPy, Excel) Tj
-0 -13 Td
-(Machine Learning & DS: Supervised/Unsupervised Learning, Feature Engineering, Regression, Classification, EDA) Tj
-0 -13 Td
-(AI & Advanced ML: Deep Learning, NLP, Computer Vision, Generative AI, LLMs, RAG, LangChain) Tj
-0 -13 Td
-(Data Analytics & BI: Power BI, Dashboard Development, Business Intelligence, Data Preprocessing) Tj
-0 -13 Td
-(Frameworks & Tools: Scikit-learn, PyTorch, PyTorch Geometric, TensorFlow, OpenCV, Git, GitHub) Tj
-ET
-BT
-/F2 13 Tf
-50 310 Td
+/F2 11 Tf
+50 448 Td
 (FEATURED PROJECTS) Tj
 ET
 BT
-/F2 10 Tf
-50 292 Td
-(Telco Customer Churn ML Platform (Python, Scikit-learn, FastAPI, Docker, AWS, Streamlit)) Tj
-/F1 9 Tf
-0 -13 Td
-(- Built full end-to-end ML churn classification pipeline with containerized FastAPI backend and UI.) Tj
+/F2 9.5 Tf
+50 432 Td
+(Telco Customer Churn ML Platform  |  Python, Scikit-learn, FastAPI, Docker, AWS, Streamlit) Tj
+/F1 8.5 Tf
+0 -11 Td
+(- Developed end-to-end churn prediction pipeline with automated preprocessing, model monitoring, and containerized FastAPI serving.) Tj
 ET
 BT
-/F2 10 Tf
-50 255 Td
-(AI Video Assistant (Python, Mistral AI, LangChain, RAG, Streamlit, ChromaDB)) Tj
-/F1 9 Tf
-0 -13 Td
-(- Transcribed multi-language video/audio and built interactive RAG chat interface.) Tj
+/F2 9.5 Tf
+50 406 Td
+(AI Video Assistant  |  Python, Mistral AI, LangChain, RAG, ChromaDB, Streamlit) Tj
+/F1 8.5 Tf
+0 -11 Td
+(- Multilingual video/audio transcription and action item extraction with an interactive RAG conversational Q&A system.) Tj
 ET
 BT
-/F2 10 Tf
-50 218 Td
-(Vendor Invoice Intelligence System (Machine Learning, Scikit-learn, SQL, Streamlit)) Tj
-/F1 9 Tf
-0 -13 Td
-(- Predicts freight costs and detects high-risk invoices using financial machine learning models.) Tj
+/F2 9.5 Tf
+50 380 Td
+(Vendor Invoice Intelligence System  |  Machine Learning, Scikit-learn, SQL, Streamlit) Tj
+/F1 8.5 Tf
+0 -11 Td
+(- ML-based invoice risk scoring and freight cost regression models with an interactive analytics dashboard.) Tj
 ET
 BT
-/F2 10 Tf
-50 181 Td
-(FlytBase Outbound Mining Campaign (Hackathon Project - JavaScript, Data Analytics, Web Systems)) Tj
-/F1 9 Tf
-0 -13 Td
-(- Outbound account intelligence system analyzing enterprise mining prospects across Latin America.) Tj
+/F2 9.5 Tf
+50 354 Td
+(FlytBase Outbound Account Intelligence  |  Hackathon Project - Data Analytics, JavaScript, API Integration) Tj
+/F1 8.5 Tf
+0 -11 Td
+(- Built automated prospect intelligence platform and interactive dashboard for enterprise mining operations across Latin America.) Tj
 ET
 BT
-/F1 8 Tf
-50 50 Td
-(Portfolio Website: https://yogant18.github.io/portfolio-website/ | Generated for Job Applications) Tj
+/F2 11 Tf
+50 326 Td
+(TECHNICAL SKILLS) Tj
+ET
+BT
+/F1 8.5 Tf
+50 310 Td
+(Programming & Data: Python, SQL, Pandas, NumPy, Excel) Tj
+0 -11 Td
+(Machine Learning & DS: Supervised/Unsupervised Learning, Feature Engineering, Regression, Classification, Clustering, EDA) Tj
+0 -11 Td
+(AI & Advanced ML: Deep Learning, NLP, Computer Vision, Generative AI, Large Language Models (LLMs), RAG, LangChain) Tj
+0 -11 Td
+(Data Analytics & BI: Power BI, DAX, Dashboard Development, Business Intelligence, Data Cleaning, Data Storytelling) Tj
+0 -11 Td
+(Frameworks & Tools: Scikit-learn, PyTorch, PyTorch Geometric, TensorFlow, OpenCV, Hugging Face, Jupyter, Git, GitHub) Tj
+0 -11 Td
+(Research & Methods: Graph-based Learning (GNN/GAT), Explainable AI (XAI/SHAP), Cold-Start Model Evaluation) Tj
+ET
+BT
+/F2 11 Tf
+50 216 Td
+(ACHIEVEMENTS & CERTIFICATIONS) Tj
+ET
+BT
+/F1 8.5 Tf
+50 200 Td
+(- Author of IEEE Published Research Paper on Explainable Graph-based Drug-Drug Interaction Prediction (2026).) Tj
+0 -11 Td
+(- Top Performer in AICTE / VOIS Virtual Internship Program in Data Science & Machine Learning (2025).) Tj
+0 -11 Td
+(- Participant & Finalist in FlytBase Outbound Account Intelligence Enterprise Hackathon.) Tj
+ET
+BT
+/F1 7.5 Tf
+50 40 Td
+(Live Portfolio: https://yogant18.github.io/portfolio-website/  |  GitHub: https://github.com/yogant18) Tj
 ET
 endstream
 endobj
@@ -175,5 +203,5 @@ xref
 trailer
 << /Size 7 /Root 1 0 R >>
 startxref
-4177
+5480
 %%EOF
