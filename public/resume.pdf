@@ -7,7 +7,7 @@ endobj
 << /Type /Pages /Kids [3 0 R] /Count 1 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R /Annots [7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R] >>
 endobj
 4 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
@@ -16,21 +16,25 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
 endobj
 6 0 obj
-<< /Length 7282 >>
+<< /Length 7615 >>
 stream
 BT
 /F2 20 Tf
-0.15 0.35 0.75 rg
+0.12 0.32 0.72 rg
 240 802 Td
 (Yogant Patil) Tj
 ET
 BT
 /F1 8.5 Tf
 0 0 0 rg
-120 786 Td
-(9404343788   |   yogant.patil2001@gmail.com   |   GitHub   |   LinkedIn   |   Pune) Tj
+75 786 Td
+(9404343788   |   yogant.patil2001@gmail.com   |   ) Tj
+/F2 8.5 Tf 0.12 0.32 0.72 rg (GitHub) Tj
+/F1 8.5 Tf 0 0 0 rg (   |   ) Tj
+/F2 8.5 Tf 0.12 0.32 0.72 rg (LinkedIn) Tj
+/F1 8.5 Tf 0 0 0 rg (   |   Pune) Tj
 ET
-BT /F2 10.5 Tf 0.15 0.35 0.75 rg 50 766 Td (EDUCATIONS) Tj ET
+BT /F2 10.5 Tf 0.12 0.32 0.72 rg 50 766 Td (EDUCATIONS) Tj ET
 q 0.7 0.7 0.7 rg 50 762 512 0.8 re f Q
 BT /F2 9.5 Tf 0 0 0 rg 50 748 Td (COEP Technological University  |  Pune) Tj
 /F1 8.5 Tf 340 0 Td (Aug 2024 - July 2026) Tj ET
@@ -40,7 +44,7 @@ BT /F2 9.5 Tf 0 0 0 rg 50 718 Td (Fr. Conceicao Rodrigues Institute of Technolog
 /F1 8.5 Tf 270 0 Td (Aug 2019 - May 2023) Tj ET
 BT /F1 8.5 Tf 0 0 0 rg 50 706 Td (Bachelor Of Technology in Computer Engineering) Tj
 375 0 Td (CGPA : 8.84 / 10) Tj ET
-BT /F2 10.5 Tf 0.15 0.35 0.75 rg 50 686 Td (WORK EXPERIENCE) Tj ET
+BT /F2 10.5 Tf 0.12 0.32 0.72 rg 50 686 Td (WORK EXPERIENCE) Tj ET
 q 0.7 0.7 0.7 rg 50 682 512 0.8 re f Q
 BT /F2 9.5 Tf 0 0 0 rg 50 668 Td (Generative AI Intern  |  Internship) Tj
 /F1 8.5 Tf 345 0 Td (Sep 2025 - Oct 2025) Tj ET
@@ -78,16 +82,19 @@ BT /F1 7.8 Tf 0 0 0 rg
 ET
 BT /F2 8 Tf 0 0 0 rg 55 508 Td (Technologies / Skills Used : ) Tj
 /F1 7.8 Tf 100 0 Td (Python, SQL, Pandas, Scikit-learn, Machine Learning) Tj ET
-BT /F2 10.5 Tf 0.15 0.35 0.75 rg 50 492 Td (PUBLICATIONS & RESEARCH) Tj ET
+BT /F2 10.5 Tf 0.12 0.32 0.72 rg 50 492 Td (PUBLICATIONS & RESEARCH) Tj ET
 q 0.7 0.7 0.7 rg 50 488 512 0.8 re f Q
 BT /F2 9 Tf 0 0 0 rg 50 476 Td (Explainable Graph-Based Learning Framework for Drug-Drug Interaction Prediction) Tj ET
-BT /F1 8 Tf 0.2 0.2 0.2 rg 50 465 Td (Published in IEEE Xplore  |  ICICI 2026) Tj ET
+BT /F1 8 Tf 0.2 0.2 0.2 rg 50 465 Td (Published in ) Tj
+/F2 8 Tf 0.12 0.32 0.72 rg (IEEE Xplore) Tj
+/F1 8 Tf 0.2 0.2 0.2 rg (  |  ICICI 2026) Tj ET
 BT /F1 7.8 Tf 0 0 0 rg 50 454 Td (Researched and developed an AI approach using Graph Attention Networks that predicts when two medicines are unsafe to take together.) Tj
 0 -9 Td (The study also investigates which enzymes in the body cause the interaction, achieving 98.24% accuracy on 191K+ drug pairs.) Tj ET
-BT /F2 10.5 Tf 0.15 0.35 0.75 rg 50 429 Td (PROJECTS) Tj ET
+BT /F2 10.5 Tf 0.12 0.32 0.72 rg 50 429 Td (PROJECTS) Tj ET
 q 0.7 0.7 0.7 rg 50 425 512 0.8 re f Q
-BT /F2 8.8 Tf 0 0 0 rg 50 413 Td (Explainable Drug-Drug Interaction Prediction (Research Project)  |  Kaggle) Tj
-/F1 8 Tf 270 0 Td (Jun 2025 - May 2026) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 50 413 Td (Explainable Drug-Drug Interaction Prediction (Research Project)  |  ) Tj
+/F2 8.8 Tf 0.12 0.32 0.72 rg (Kaggle) Tj
+/F1 8 Tf 0 0 0 rg 232 0 Td (Jun 2025 - May 2026) Tj ET
 BT /F1 7.8 Tf 0 0 0 rg
 55 403 Td
 (\225 Researched an AI system that predicts whether two drugs are dangerous together, using molecular structure and biological behaviour.) Tj
@@ -98,7 +105,8 @@ BT /F1 7.8 Tf 0 0 0 rg
 ET
 BT /F2 7.8 Tf 0 0 0 rg 55 376 Td (Technologies / Tools Used : ) Tj
 /F1 7.6 Tf 100 0 Td (Python, PyTorch Geometric, RDKit, ChemBERTa, SHAP, GNN) Tj ET
-BT /F2 8.8 Tf 0 0 0 rg 50 362 Td (AI Video Assistant  |  Github) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 50 362 Td (AI Video Assistant  |  ) Tj
+/F2 8.8 Tf 0.12 0.32 0.72 rg (Github) Tj ET
 BT /F1 7.8 Tf 0 0 0 rg
 55 352 Td
 (\225 Converts speech into text (transcription) for English (Mistral AI) and Hindi/Hinglish (Sarvam AI), generating concise meeting summaries.) Tj
@@ -107,7 +115,8 @@ BT /F1 7.8 Tf 0 0 0 rg
 ET
 BT /F2 7.8 Tf 0 0 0 rg 55 334 Td (Technologies / Tools Used : ) Tj
 /F1 7.6 Tf 100 0 Td (Python, Whisper, Sarvam AI, LangChain, Mistral AI, ChromaDB, Streamlit) Tj ET
-BT /F2 8.8 Tf 0 0 0 rg 50 320 Td (CareerReach AI  |  Github) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 50 320 Td (CareerReach AI  |  ) Tj
+/F2 8.8 Tf 0.12 0.32 0.72 rg (Github) Tj ET
 BT /F1 7.8 Tf 0 0 0 rg
 55 310 Td
 (\225 LLM-powered platform that extracts job postings from career pages and generates personalized cold emails using RAG and Groq.) Tj
@@ -116,7 +125,8 @@ BT /F1 7.8 Tf 0 0 0 rg
 ET
 BT /F2 7.8 Tf 0 0 0 rg 55 292 Td (Technologies / Tools Used : ) Tj
 /F1 7.6 Tf 100 0 Td (Groq, LangChain, LLM Automation, Vector DB) Tj ET
-BT /F2 8.8 Tf 0 0 0 rg 50 278 Td (Vendor Invoice Intelligence System  |  Github) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 50 278 Td (Vendor Invoice Intelligence System  |  ) Tj
+/F2 8.8 Tf 0.12 0.32 0.72 rg (Github) Tj ET
 BT /F1 7.8 Tf 0 0 0 rg
 55 268 Td
 (\225 End-to-end ML-based invoice analytics predicting freight costs and detecting high-risk invoices using Random Forest & Logistic Regression.) Tj
@@ -125,7 +135,7 @@ BT /F1 7.8 Tf 0 0 0 rg
 ET
 BT /F2 7.8 Tf 0 0 0 rg 55 250 Td (Technologies / Tools Used : ) Tj
 /F1 7.6 Tf 100 0 Td (Python, Scikit-learn, SQL, Streamlit) Tj ET
-BT /F2 10.5 Tf 0.15 0.35 0.75 rg 50 234 Td (SKILLS) Tj ET
+BT /F2 10.5 Tf 0.12 0.32 0.72 rg 50 234 Td (SKILLS) Tj ET
 q 0.7 0.7 0.7 rg 50 230 512 0.8 re f Q
 BT /F2 8.2 Tf 0 0 0 rg 50 218 Td (Programming & Databases :) Tj
 /F1 8 Tf 120 0 Td (Python, SQL, PostgreSQL, MySQL, REST APIs) Tj ET
@@ -135,24 +145,60 @@ BT /F2 8.2 Tf 0 0 0 rg 50 192 Td (Deep Learning & AI :) Tj
 /F1 8 Tf 120 0 Td (LLMs, RAG, LangChain, NLP, Graph Neural Networks (GNNs), Generative AI, TensorFlow, PyTorch) Tj ET
 BT /F2 8.2 Tf 0 0 0 rg 50 179 Td (Visualization & Cloud :) Tj
 /F1 8 Tf 120 0 Td (Power BI, Matplotlib, Seaborn, Spark, Hive, AWS, SageMaker, EC2, Docker, Big Data Analytics) Tj ET
-BT /F2 10.5 Tf 0.15 0.35 0.75 rg 50 162 Td (CERTIFICATIONS) Tj ET
+BT /F2 10.5 Tf 0.12 0.32 0.72 rg 50 162 Td (CERTIFICATIONS) Tj ET
 q 0.7 0.7 0.7 rg 50 158 512 0.8 re f Q
 BT /F2 8.8 Tf 0 0 0 rg 50 144 Td (Certified Data Science Professional  |  Certificate) Tj
 /F1 8 Tf 305 0 Td (Oct 2025 - Oct 2027) Tj ET
 BT /F1 8 Tf 0.2 0.2 0.2 rg 50 133 Td (Oracle University) Tj ET
 endstream
 endobj
+7 0 obj
+<< /Type /Annot /Subtype /Link /Rect [75 783 130 797] /Border [0 0 0] /A << /S /URI /URI (tel:9404343788) >> >>
+endobj
+8 0 obj
+<< /Type /Annot /Subtype /Link /Rect [140 783 270 797] /Border [0 0 0] /A << /S /URI /URI (mailto:yogant.patil2001@gmail.com) >> >>
+endobj
+9 0 obj
+<< /Type /Annot /Subtype /Link /Rect [285 783 325 797] /Border [0 0 0] /A << /S /URI /URI (https://github.com/yogant18) >> >>
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Link /Rect [335 783 380 797] /Border [0 0 0] /A << /S /URI /URI (https://www.linkedin.com/in/yogant-patil/) >> >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Link /Rect [102 462 160 474] /Border [0 0 0] /A << /S /URI /URI (https://ieeexplore.ieee.org/document/11581200) >> >>
+endobj
+12 0 obj
+<< /Type /Annot /Subtype /Link /Rect [315 410 360 423] /Border [0 0 0] /A << /S /URI /URI (https://www.kaggle.com/code/yogantpatil/drug-drug-interaction-thesis-research) >> >>
+endobj
+13 0 obj
+<< /Type /Annot /Subtype /Link /Rect [145 359 185 372] /Border [0 0 0] /A << /S /URI /URI (https://github.com/yogant18/AI-Video-Assistant-) >> >>
+endobj
+14 0 obj
+<< /Type /Annot /Subtype /Link /Rect [135 317 175 330] /Border [0 0 0] /A << /S /URI /URI (https://github.com/yogant18/CareerReach-AI-) >> >>
+endobj
+15 0 obj
+<< /Type /Annot /Subtype /Link /Rect [225 275 265 288] /Border [0 0 0] /A << /S /URI /URI (https://github.com/yogant18/Vendor-Invoice-Intelligence-System) >> >>
+endobj
 xref
-0 7
+0 16
 0000000000 65535 f 
 0000000015 00000 n 
 0000000064 00000 n 
 0000000121 00000 n 
-0000000257 00000 n 
 0000000327 00000 n 
-0000000402 00000 n 
+0000000397 00000 n 
+0000000472 00000 n 
+0000008139 00000 n 
+0000008266 00000 n 
+0000008413 00000 n 
+0000008554 00000 n 
+0000008710 00000 n 
+0000008870 00000 n 
+0000009062 00000 n 
+0000009224 00000 n 
+0000009382 00000 n 
 trailer
-<< /Size 7 /Root 1 0 R >>
+<< /Size 16 /Root 1 0 R >>
 startxref
-7736
+9559
 %%EOF
