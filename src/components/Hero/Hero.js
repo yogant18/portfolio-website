@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import Image from "next/image";
 import styles from "./Hero.module.css";
 import Button from "../shared/Button";
+import profilePic from "../../../public/images/profile.jpg";
 
 const roles = [
   "Aspiring Data Scientist",
@@ -145,10 +146,8 @@ export default function Hero() {
               <div className={styles.imageRing}></div>
               <div className={styles.imageContainer}>
                 <Image
-                  src="/images/profile.jpg"
+                  src={profilePic}
                   alt="Professional headshot of Yogant Patil"
-                  width={380}
-                  height={380}
                   priority
                   className={styles.profileImage}
                 />
