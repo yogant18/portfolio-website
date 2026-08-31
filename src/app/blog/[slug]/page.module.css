@@ -1,0 +1,257 @@
+.postPage {
+  min-height: 100vh;
+  padding: 7rem 0 4rem;
+  background: var(--bg-primary);
+}
+
+.container {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.backLink {
+  display: inline-block;
+  text-decoration: none;
+  color: var(--accent-blue);
+  font-weight: 500;
+  font-size: 0.9rem;
+  margin-bottom: 2.5rem;
+  transition: color 0.2s ease;
+}
+
+.backLink:hover {
+  color: var(--accent-orange);
+}
+
+.article {
+  background: var(--bg-card);
+  border-radius: 20px;
+  border: 1px solid var(--border);
+  overflow: hidden;
+}
+
+.header {
+  padding: 2.5rem 2.5rem 2rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.meta {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.date {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.readTime {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  background: var(--bg-secondary);
+  padding: 0.2rem 0.6rem;
+  border-radius: 15px;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--text-primary);
+  line-height: 1.25;
+  margin-bottom: 1.25rem;
+  letter-spacing: -0.02em;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.tag {
+  padding: 0.25rem 0.7rem;
+  background: var(--accent-orange-light);
+  color: var(--accent-orange);
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+/* Article Content — Prose Styles */
+.content {
+  padding: 2.5rem;
+  font-size: 1rem;
+  color: var(--text-secondary);
+  line-height: 1.8;
+}
+
+.content h1 {
+  font-size: 1.75rem;
+  font-weight: 800;
+  color: var(--text-primary);
+  margin: 2.5rem 0 1rem;
+  letter-spacing: -0.01em;
+}
+
+.content h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin: 2rem 0 0.85rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--accent-blue-light);
+}
+
+.content h3 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin: 1.75rem 0 0.65rem;
+}
+
+.content p {
+  margin-bottom: 1.25rem;
+}
+
+.content a {
+  color: var(--accent-blue);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: color 0.2s ease;
+}
+
+.content a:hover {
+  color: var(--accent-orange);
+}
+
+.content ul,
+.content ol {
+  margin: 1rem 0 1.25rem 1.5rem;
+}
+
+.content li {
+  margin-bottom: 0.4rem;
+}
+
+.content strong {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+.content code {
+  font-family: 'Fira Code', 'Consolas', monospace;
+  background: var(--bg-secondary);
+  color: var(--accent-orange);
+  padding: 0.15rem 0.4rem;
+  border-radius: 5px;
+  font-size: 0.88em;
+}
+
+.content pre {
+  background: #1e293b;
+  color: #e2e8f0;
+  padding: 1.5rem;
+  border-radius: 14px;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+  font-size: 0.88rem;
+  line-height: 1.6;
+  border: 1px solid #334155;
+}
+
+.content pre code {
+  background: none;
+  color: inherit;
+  padding: 0;
+  font-size: inherit;
+}
+
+.content blockquote {
+  border-left: 4px solid var(--accent-blue);
+  background: var(--accent-blue-light);
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 10px 10px 0;
+  font-style: italic;
+  color: var(--text-primary);
+}
+
+.content img {
+  max-width: 100%;
+  border-radius: 12px;
+  margin: 1.5rem 0;
+}
+
+.content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+}
+
+.content th {
+  background: var(--bg-secondary);
+  padding: 0.75rem 1rem;
+  text-align: left;
+  font-weight: 600;
+  color: var(--text-primary);
+  border-bottom: 2px solid var(--border);
+}
+
+.content td {
+  padding: 0.65rem 1rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.content hr {
+  border: none;
+  height: 2px;
+  background: var(--border);
+  margin: 2rem 0;
+  border-radius: 1px;
+}
+
+/* Post Footer */
+.postFooter {
+  margin-top: 2.5rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
+  text-align: center;
+}
+
+.backBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  text-decoration: none;
+  color: var(--accent-blue);
+  font-weight: 600;
+  font-size: 0.95rem;
+  padding: 0.65rem 1.5rem;
+  border-radius: 10px;
+  border: 2px solid var(--accent-blue);
+  transition: all 0.25s ease;
+}
+
+.backBtn:hover {
+  background: var(--accent-blue);
+  color: #ffffff;
+}
+
+@media (max-width: 640px) {
+  .header {
+    padding: 1.75rem;
+  }
+
+  .content {
+    padding: 1.75rem;
+  }
+
+  .title {
+    font-size: 1.5rem;
+  }
+}
