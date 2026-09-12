@@ -35,6 +35,7 @@ export const projects = [
     techStack: ["AI", "NLP", "Python", "Mistral AI", "LangChain", "RAG", "Streamlit"],
     links: {
       github: "https://github.com/yogant18/AI-Video-Assistant-",
+      demo: "https://h5cyslt96f75qpzbias7xz.streamlit.app/",
     },
     featured: true,
   },
