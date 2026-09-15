@@ -24,6 +24,21 @@ export const currentlyBuilding = [
 
 export const projects = [
   {
+    id: "buy-or-wait",
+    title: "Buy or Wait? — AI Financial Decision Agent",
+    category: "AI",
+    shortDescription:
+      "Autonomous hybrid AI financial advisor combining deterministic 90-day cash flow forecasting, multi-modal OCR, and Groq LLM reasoning.",
+    description:
+      "Engineered an end-to-end hybrid AI financial intelligence agent that evaluates purchase affordability across 90-day cash flow forecasts, recurring financial events, and multi-currency exchange rates. Implemented deterministic computation for zero-hallucination financial math, integrated EasyOCR for automated bill/receipt extraction, and leveraged Groq LLM for personalized natural language decision explanations with an interactive Chainlit chat UI.",
+    image: "/images/projects/project1.jpg",
+    techStack: ["AI", "Python", "Groq LLM", "Chainlit", "EasyOCR", "Pandas", "Deterministic AI", "FastAPI"],
+    links: {
+      github: "https://github.com/yogant18",
+    },
+    featured: true,
+  },
+  {
     id: "ai-video-assistant",
     title: "AI Video Assistant",
     category: "AI",
