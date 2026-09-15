@@ -35,6 +35,7 @@ export const projects = [
     techStack: ["AI", "Python", "Groq LLM", "Chainlit", "EasyOCR", "Pandas", "Deterministic AI", "FastAPI"],
     links: {
       github: "https://github.com/yogant18",
+      demo: "https://huggingface.co/spaces/Sugarz3ro/buy-or-wait",
     },
     featured: true,
   },
