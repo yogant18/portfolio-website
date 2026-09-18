@@ -97,6 +97,7 @@ export const projects = [
     techStack: ["AI", "NLP", "Python", "LangChain", "Groq", "Vector DB", "RAG"],
     links: {
       github: "https://github.com/yogant18/CareerReach-AI-",
+      demo: "https://careerreach-ai.streamlit.app/",
     },
     featured: true,
   },
