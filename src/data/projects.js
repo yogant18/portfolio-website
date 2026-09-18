@@ -67,6 +67,7 @@ export const projects = [
     techStack: ["Machine Learning", "Data Science", "Python", "Scikit-learn", "SQL", "Streamlit"],
     links: {
       github: "https://github.com/yogant18/Vendor-Invoice-Intelligence-System",
+      demo: "https://vendor-invoice-intelligence-system-rrbbsikfmqmva5dmtpsuax.streamlit.app/",
     },
     featured: true,
   },
